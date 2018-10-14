@@ -32,6 +32,7 @@ https://github.com/go-vgo/robotgo
 
 ### GCC
 https://gcc.gnu.org
+
 Note: If you are using a 64-bit version of Golang, you will need to install a 64-bit version of GCC such as MinGW-w64 as well.
 This same logic also applies to 32-bit versions of Golang.
 
