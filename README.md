@@ -1,5 +1,6 @@
 # Scrambler
 Free, Open-Source productivity negation program coded in Golang
+
 This annoying little program is guaranteed to diminish both the sanity and 
 productivity of your victim(s) at the same time!
 
@@ -9,7 +10,7 @@ I am not responsible for any damage(s) caused by any use of this code.
 Please use with caution.
 
 
-# Features</h2>
+# Features
 
 ### This program periodically...
 * Clicks/Double clicks randomly!
